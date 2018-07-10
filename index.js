@@ -1,9 +1,12 @@
 function add(a,b) {
-return a+b;
+return a + b;
 }
 
-function add(a,b) {
-return a+b;
+function subtract(a,b) {
+return a - b;
 }
-2 * 3.4
+
+function multiply(a,b) {
+return a * b;
+}
 5.0 / 2.5
